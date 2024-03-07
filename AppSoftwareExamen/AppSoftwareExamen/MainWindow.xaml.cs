@@ -1,8 +1,8 @@
 ﻿using AppSoftwareExamen.Classes;
 using System;
 using System.Collections.Generic;
+using System.Text.Json;
 using System.Windows;
-using static AppSoftwareExamen.Classes.APIPingIP;
 
 namespace AppSoftwareExamen
 {
@@ -26,17 +26,12 @@ namespace AppSoftwareExamen
             {
                 string pingResults = await APIPingIP.PingIPAsync(ipAddress);
 
-                string[] lines = pingResults.Split('\n');
-                List<PingResult> pingResultsList = new List<PingResult>();
+                /*Console.WriteLine("JSON Response:");
+                Console.WriteLine(pingResults);*/
 
-                foreach (string line in lines)
-                {
-                    if (!string.IsNullOrWhiteSpace(line))
-                    {
-                        PingResult result = APIPingIP.ParsePingResult(line);
-                        pingResultsList.Add(result);
-                    }
-                }
+                APIPingIP.PingResult pingResult = JsonSerializer.Deserialize<APIPingIP.PingResult>(pingResults);
+
+                List<APIPingIP.PingResult> pingResultsList = new List<APIPingIP.PingResult> { pingResult };
 
                 lstPingResults.ItemsSource = pingResultsList;
             }
