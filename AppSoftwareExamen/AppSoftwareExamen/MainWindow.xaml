@@ -33,5 +33,15 @@
 
         <TextBlock Text="IP Address:" Margin="134,132,522,261" FontSize="16" FontFamily="Arial Black"/>
         <TextBox x:Name="txtIPAddress" MinWidth="200" Margin="247,133,316,249" FontSize="20" FontFamily="Arial Black"/>
+        <Button x:Name="btnViewPastPings" Content="View Previous Pings" HorizontalAlignment="Left" Margin="617,182,0,197" Width="147" FontFamily="Arial Black" Click="btnViewPastPings_Click"/>
+        <ListView x:Name="lstPreviousPings" Margin="20,217,20,20" BorderBrush="Black" BorderThickness="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="sender" DisplayMemberBinding="{Binding Sender}"/>
+                    <GridViewColumn Header="receiver" DisplayMemberBinding="{Binding Receiver}"/>
+                    <GridViewColumn Header="time_ms" DisplayMemberBinding="{Binding TimeMs}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
     </Grid>
 </Window>
