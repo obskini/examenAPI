@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|c:\\users\\vanbe\\onedrive\\programing in aplication software\\examenapi\\appsoftwareexamen\\appsoftwareexamen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|c:\\users\\vanbe\\onedrive\\programing in aplication software\\examenapi\\appsoftwareexamen\\appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\apipingip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\apipingip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\apigetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\apigetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AppSoftwareExamen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml",
+              "RelativeToolTip": "AppSoftwareExamen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T08:20:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db.cs",
+              "DocumentMoniker": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\db.cs",
+              "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\db.cs",
+              "ToolTip": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\db.cs",
+              "RelativeToolTip": "AppSoftwareExamen\\Classes\\db.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:16:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIPingIP.cs",
+              "DocumentMoniker": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIPingIP.cs",
+              "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\APIPingIP.cs",
+              "ToolTip": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIPingIP.cs",
+              "RelativeToolTip": "AppSoftwareExamen\\Classes\\APIPingIP.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwBEAAAAnAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-21T08:16:45.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIGetIP.cs",
+              "DocumentMoniker": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIGetIP.cs",
+              "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\APIGetIP.cs",
+              "ToolTip": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIGetIP.cs",
+              "RelativeToolTip": "AppSoftwareExamen\\Classes\\APIGetIP.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-21T08:16:45.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppSoftwareExamen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vanbe\\OneDrive\\programing in aplication software\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AppSoftwareExamen\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:16:45.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
