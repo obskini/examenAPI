@@ -30,7 +30,6 @@ C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\System.Text.Json.xml
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\System.ValueTuple.xml
-C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\obj\Debug\AppSoftwareExamen.csproj.CopyComplete
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\BouncyCastle.Cryptography.dll
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\Google.Protobuf.dll
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\K4os.Compression.LZ4.dll
@@ -50,3 +49,4 @@ C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\MySql.Data.xml
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MSI\Documents\GitHub\examenAPI\AppSoftwareExamen\AppSoftwareExamen\obj\Debug\AppSoftw.D5C12EDB.Up2Date
