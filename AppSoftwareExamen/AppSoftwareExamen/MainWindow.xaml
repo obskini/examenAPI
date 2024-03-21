@@ -9,7 +9,13 @@
 
         <TextBlock Text="IP Address Pinger" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,20"/>
 
-        <Button x:Name="btnGetIP" Content="Get My IP" HorizontalAlignment="Center" Margin="0,59,0,317" Width="120" Click="btnGetIP_Click" FontFamily="Arial Black" Background="#FF6B92D4">
+        <Button x:Name="btnGetIP" Content="Get My IP" HorizontalAlignment="Center" Margin="0,59,0,317" Width="120" Click="btnGetIP_Click" FontFamily="Arial Black">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2AC750"/>
+                    <GradientStop Color="#FF0B51FB" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
             <UIElement.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -20,9 +26,16 @@
             </UIElement.RenderTransform>
         </Button>
 
-        <Button x:Name="btnPingIP" Content="Ping" HorizontalAlignment="Left" Margin="500,130,0,249" Width="120" Click="btnPingIP_Click" FontFamily="Arial Black" Background="#FF6B92D4"/>
+        <Button x:Name="btnPingIP" Content="Ping" HorizontalAlignment="Left" Margin="500,130,0,249" Width="120" Click="btnPingIP_Click" FontFamily="Arial Black">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF12F172"/>
+                    <GradientStop Color="#FF0999F5" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
 
-        <ListView x:Name="lstPingResults" Margin="20,217,20,20" BorderBrush="Black" BorderThickness="1">
+        <ListView x:Name="lstPingResults" Margin="20,217,20,20" BorderBrush="Black" BorderThickness="1" Background="{x:Null}">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="IP" DisplayMemberBinding="{Binding IP}"/>
@@ -36,7 +49,14 @@
 
         <TextBlock Text="IP Address:" Margin="134,132,522,261" FontSize="16" FontFamily="Arial Black" Foreground="#FF080808"/>
         <TextBox x:Name="txtIPAddress" MinWidth="200" Margin="247,133,316,249" FontSize="20" FontFamily="Arial Black"/>
-        <Button x:Name="btnViewPastPings" Content="View Previous Pings" HorizontalAlignment="Left" Margin="617,182,0,197" Width="147" FontFamily="Arial Black" Click="btnViewPastPings_Click" Background="#FF6B92D4"/>
+        <Button x:Name="btnViewPastPings" Content="View Previous Pings" HorizontalAlignment="Left" Margin="617,182,0,197" Width="147" FontFamily="Arial Black" Click="btnViewPastPings_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF16F17E"/>
+                    <GradientStop Color="#FF0DD7F1" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
         <ListView x:Name="lstPreviousPings" Margin="20,217,20,20" BorderBrush="Black" BorderThickness="1" Background="#00000000">
             <ListView.View>
                 <GridView>

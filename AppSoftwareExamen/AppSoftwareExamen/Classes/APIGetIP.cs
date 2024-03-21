@@ -30,7 +30,7 @@ namespace AppSoftwareExamen.Classes
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("An error occurred while getting IP address. ", ex);
+                    throw new Exception("error  while getting IP address. ", ex);
                 }
             }
         }

@@ -50,7 +50,7 @@ namespace AppSoftwareExamen.Classes
             }
             catch (Exception ex)
             {
-                throw new Exception("An error occurred while pinging IP address.", ex);
+                throw new Exception("error   while pinging IP address.", ex);
             }
         }
     }
