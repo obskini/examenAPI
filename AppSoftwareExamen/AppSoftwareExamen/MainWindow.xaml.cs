@@ -47,7 +47,7 @@ namespace AppSoftwareExamen
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show($"Error: Het IP-Adres die u probeert te pingen heeft waarschijnlijk ICMP uit staan dus deze host kan niet gepingt worden.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
             else
