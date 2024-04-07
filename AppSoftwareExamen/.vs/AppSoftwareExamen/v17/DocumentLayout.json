@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|c:\\users\\msi\\documents\\github\\examenapi\\appsoftwareexamen\\appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\apigetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\apigetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\apipingip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "db.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\db.cs",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\db.cs",
               "ToolTip": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\db.cs",
               "RelativeToolTip": "AppSoftwareExamen\\Classes\\db.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T14:27:36.733Z",
               "IsPinned": true,
@@ -56,12 +56,11 @@
               "RelativeToolTip": "AppSoftwareExamen\\Classes\\APIPingIP.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:50:03.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T13:50:03.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "APIGetIP.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIGetIP.cs",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\APIGetIP.cs",
@@ -69,12 +68,11 @@
               "RelativeToolTip": "AppSoftwareExamen\\Classes\\APIGetIP.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:49:52.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T13:49:52.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\MainWindow.xaml.cs",
@@ -87,15 +85,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml",
               "RelativeToolTip": "AppSoftwareExamen\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-01T13:34:58.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T13:34:58.806Z"
             }
           ]
         }

@@ -11,7 +11,7 @@ namespace AppSoftwareExamen.Classes
 
         public db()
         {
-            server = "141.95.16.251";
+            server = "146.59.153.218";
             database = "examenAPI";
             username = "examenAPI";
             password = "APIex123!";
