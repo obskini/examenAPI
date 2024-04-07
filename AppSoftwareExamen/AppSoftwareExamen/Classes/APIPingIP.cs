@@ -8,7 +8,7 @@ namespace AppSoftwareExamen.Classes
 {
     public class APIPingIP
     {
-        private const string ApiUrlBase = "http://141.95.16.251:46521/ping/";
+        private const string ApiUrlBase = "http://146.59.153.218:46521/ping/";
 
         public class PingResult
         {

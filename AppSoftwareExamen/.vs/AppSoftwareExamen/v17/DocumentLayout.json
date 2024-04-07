@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|c:\\users\\msi\\documents\\github\\examenapi\\appsoftwareexamen\\appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\apipingip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\apipingip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\apigetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\apigetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\classes\\apipingip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\apipingip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|c:\\users\\msi\\documents\\github\\examenapi\\appsoftwareexamen\\appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\appsoftwareexamen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5957381-E7CD-42DB-8C29-07AF3D8BCC25}|AppSoftwareExamen\\AppSoftwareExamen.csproj|solutionrelative:appsoftwareexamen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "db.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\db.cs",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\db.cs",
@@ -48,31 +48,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "APIPingIP.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIPingIP.cs",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\APIPingIP.cs",
               "ToolTip": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIPingIP.cs",
               "RelativeToolTip": "AppSoftwareExamen\\Classes\\APIPingIP.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:50:03.322Z"
+              "WhenOpened": "2024-03-01T13:50:03.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "APIGetIP.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIGetIP.cs",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\Classes\\APIGetIP.cs",
               "ToolTip": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\Classes\\APIGetIP.cs",
               "RelativeToolTip": "AppSoftwareExamen\\Classes\\APIGetIP.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:49:52.618Z"
+              "WhenOpened": "2024-03-01T13:49:52.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\MainWindow.xaml.cs",
@@ -80,12 +82,11 @@
               "RelativeToolTip": "AppSoftwareExamen\\MainWindow.xaml.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAowEwAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:34:59.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T13:34:59.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\GitHub\\examenAPI\\AppSoftwareExamen\\AppSoftwareExamen\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AppSoftwareExamen\\MainWindow.xaml",
